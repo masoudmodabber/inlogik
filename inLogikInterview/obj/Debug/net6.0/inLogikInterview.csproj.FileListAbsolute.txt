@@ -1,0 +1,15 @@
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\bin\Debug\net6.0\inLogikInterview.exe
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\bin\Debug\net6.0\inLogikInterview.deps.json
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\bin\Debug\net6.0\inLogikInterview.runtimeconfig.json
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\bin\Debug\net6.0\inLogikInterview.dll
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\bin\Debug\net6.0\inLogikInterview.pdb
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\inLogikInterview.csproj.AssemblyReference.cache
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\inLogikInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\inLogikInterview.AssemblyInfoInputs.cache
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\inLogikInterview.AssemblyInfo.cs
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\inLogikInterview.csproj.CoreCompileInputs.cache
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\inLogikInterview.dll
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\refint\inLogikInterview.dll
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\inLogikInterview.pdb
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\inLogikInterview.genruntimeconfig.cache
+C:\Users\mas\Source\Repos\inLogikInterview\inLogikInterview\obj\Debug\net6.0\ref\inLogikInterview.dll
